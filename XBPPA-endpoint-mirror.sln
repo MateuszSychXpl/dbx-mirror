@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBPPA-endpoint-mirror", "XBPPA-endpoint-mirror.csproj", "{280DA46E-BE62-8137-903C-FCFC5DBAE5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280DA46E-BE62-8137-903C-FCFC5DBAE5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280DA46E-BE62-8137-903C-FCFC5DBAE5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280DA46E-BE62-8137-903C-FCFC5DBAE5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280DA46E-BE62-8137-903C-FCFC5DBAE5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C34E5E-AF2B-711A-19AB-60979F4F9D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C34E5E-AF2B-711A-19AB-60979F4F9D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C34E5E-AF2B-711A-19AB-60979F4F9D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C34E5E-AF2B-711A-19AB-60979F4F9D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B2E651A-6823-4F15-BEFC-38D3C9A3BD69}
+	EndGlobalSection
+EndGlobal
